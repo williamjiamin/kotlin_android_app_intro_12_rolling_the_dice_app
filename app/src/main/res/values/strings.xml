@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">乐学偶得随机投骰子App</string>
+    <string name="str_one">888</string>
+    <string name="str_roll">点击我投掷骰子</string>
+    <string name="str_img_desc_one">str_img_desc_one</string>
+    <string name="str_img_desc_two">str_img_desc_two</string>
+    <string name="str_img_desc_three">str_img_desc_three</string>
+</resources>
